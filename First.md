@@ -39,4 +39,4 @@
 
 ## Изображения
 
-![](https://github.com/Mariya-Ill/First-lesson/blob/main/photo_1.jpg)
+![](/images/photo_1.jpg)
