@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: First-lesson-about
+permalink: /index/
 ---
+
+
 
 # Git. Инструкция по применению
 
