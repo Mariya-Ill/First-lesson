@@ -14,4 +14,4 @@ github_username:  jekyll
 # plugins:
 markdown: kramdown
 permalink: /:title:output_ext
-theme: minima
+theme: time-machine
