@@ -8,10 +8,10 @@ baseurl: "First-lesson" # the subpath of your site, e.g. /blog
 url: "https://Mariya-Ill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-markdown: kramdown
-permalink: /:title:output_ext
 
 # Build settings
 # theme: 
 # plugins:
- 
+markdown: kramdown
+permalink: /:title:output_ext
+theme: just-the-docs
